@@ -1,0 +1,51 @@
+#container{
+    height: 200px;
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 3rem;
+
+}
+
+.body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.bar{
+    width: 10px;
+    background-color: black;
+    margin: 1px;
+
+}
+
+svg{
+    margin: 1rem 2rem 1rem 2rem;
+}
+
+h1{
+    padding-top: 1rem;
+}
+
+
+.barr{
+
+}
+.rangebar{
+    margin: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.active{
+    display: none;
+
+}
+
+.wchsrt{
+    margin: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
